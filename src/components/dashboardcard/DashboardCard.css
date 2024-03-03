@@ -1,0 +1,11 @@
+.dashboard-container
+{
+    width:1728px;
+    height:1684px;
+    top:11668px;
+    left:-7050px;
+    border-radius:50px;
+    background-color: #FB7C1F;
+    display: flex;
+    
+}

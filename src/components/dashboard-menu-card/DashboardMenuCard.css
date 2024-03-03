@@ -1,0 +1,177 @@
+.menubar-container
+{
+    width:315px;
+    height: 1117px;
+    background-color:#FFFFFF;
+    border-top-left-radius:50px;
+    display: block;  
+    
+    
+    
+}
+
+.div-box
+{
+    width:42px;
+    height:43px;
+    margin-top:75px;
+    margin-left:63px;
+    border-radius: 5px 0px 0px 5px;
+    /* background-image: linear-gradient(#FFC42A,#F74316); */
+    background-color:#FFC42A;
+    position: relative;
+}
+.div-child-box
+{
+    width:18px;
+    height:17px;
+    top:12px;
+    margin-left:12px;
+    background-color: #FFFFFF;
+    position: absolute;
+}
+.startup-idea-container
+{
+    width:108px;
+    height:100px;
+    margin-top:75px;
+    margin-left:18px;
+    font-family: Roboto;
+    font-size: 34px;
+    font-weight: 600;
+    text-align: center;
+    color:535353
+} 
+.dashboard-menu
+{
+    width:117px;
+    height:28px;
+     margin-top:150px;
+    margin-left: 109px;
+    font-family: roboto;
+    font-weight: 600;
+    font-size: 24px;
+    text-decoration: none;
+    color:#FFC42A;
+    cursor: pointer;
+    
+}
+
+   
+    
+   
+
+ .dashboard-product-menu
+{
+    width:98px;
+    height:28px;
+    margin-top:70px;
+    margin-left: 109px;
+    font-family: roboto;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28.13px;
+    color: #CDCDCD;
+     color:#CDCDCD;
+    text-decoration: none;
+    display: block;
+}
+    
+    
+    
+
+.dashboard-customer-menu
+{
+    width:118px;
+    height:28px;
+    margin-top:70px;
+    margin-left: 109px;
+    font-family: roboto;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28.13px;
+    text-decoration: none;
+    color: #CDCDCD;
+    display: block;
+}
+.dashboard-order-menu
+{
+    width:73px;
+    height: 28px;
+    margin-top:70px;
+    margin-left: 109px;
+    font-family: roboto;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28.13px;
+    text-decoration: none;
+    display: block;
+    color:#CDCDCD;
+}
+.dashboard-shipment-menu
+{
+    width:116px;
+    height:28px;
+    margin-top:70px;
+    margin-left: 109px;
+    font-family: roboto;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28.13px;
+    text-decoration: none;
+    color: #CDCDCD;
+    display: block;
+}
+.dashboard-transaction-menu
+{
+    width:140px;
+    height: 28px;
+    margin-top: 70px;
+    margin-left: 109px;
+    font-family: roboto;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28.13px;
+    text-decoration: none;
+    color: #CDCDCD;
+    display: block;
+}
+
+.dashboard-setting-menu
+{
+    width:90px;
+    height:28px;
+    margin-top:70px;
+    margin-left: 109px;
+    font-family: roboto;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28.13px;
+    text-decoration: none;
+    color: #CDCDCD;
+    display: block;
+    
+}
+.dashboard-logout-menu
+{
+    width:76px;
+    height: 28px;
+    margin-top:70px;
+    margin-left: 109px;
+    font-family: roboto;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28.13px;
+    text-decoration: none;
+    color: #CDCDCD;
+    display: block;
+} 
+
+                     /* ***** Mobile view ***** */
+
+ /* @media screen and (min-width:600px) and (max-width:768px)
+{}
+    */
+   
+   
+

@@ -1,0 +1,113 @@
+.logincard
+{
+    width:1576px;
+    height:886px;
+    top:11668px;
+    left:-8807px;
+    background-image:linear-gradient(to right, #080357,#ffad33) ;
+    /* background-color: blue;
+    */
+    padding-top: 250px;
+    display: flex;
+    
+
+}
+
+
+
+.sign-up-btn
+{
+    color:white;
+    background-color:#15186D ;
+    border-radius: 15px;
+    /* margin: 5px;
+    padding: 15px; */
+    width:200px;
+    margin-top: 60px;
+    margin-left: 150px;
+    padding: 10px;
+    cursor: pointer;
+    box-shadow: 60% #afb0d3;
+} 
+
+
+
+
+
+
+
+
+
+.loginimg
+{ 
+    
+   
+   
+     height:500px;
+    width: 500px; 
+    
+    
+}
+    
+
+
+
+.firstdiv
+{
+    height: 500px;
+    width: 500px;
+    background-color: white;
+   margin-left: 300px;
+   border-top-left-radius: 15px;
+   border-bottom-left-radius:15px;
+
+}
+
+.seconddiv
+{
+    height: 500px;
+    width: 500px;
+    /* background-color: red; */
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    
+    
+    
+}
+
+.info
+{
+    height: 304px;
+    width: 450px;
+    background-color:white;
+    
+    margin: 25px;
+}
+   
+.input
+{
+    border: none;
+    border-bottom: 1px solid #15186D;
+    line-height: 100%;
+    margin: 15px;
+}
+
+
+@media screen and (min-width:600px) and (max-width:768px)
+{
+    .logincard
+    {
+        width:886px;
+        height:1576px;
+       background-color: red;
+    }
+    /* .firstdiv
+    {
+        margin-left: 290px;
+    }
+    .seconddiv
+    {
+        margin-left: 290px;
+    } */
+}
+    

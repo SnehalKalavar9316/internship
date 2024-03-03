@@ -1,0 +1,64 @@
+.customer-table-head-container
+{
+    position: absolute;
+    width:1185px;
+    height:28px;
+    top:412px;
+    left:397px;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28.13px;
+    color:#000000;
+    border-spacing: 40px;
+}
+.customer-table-body
+{
+    width:700px;
+    height:28px;
+    top:480px;
+    left:397px;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28.13px;
+    border-spacing: 60px;
+    position: absolute;
+}
+.customer-text
+{
+    width:130px;
+    height:152px;
+    top:200px;
+    margin-left:480px;
+    font-family: Roboto;
+    font-size: 32px;
+    font-weight: 600;
+    color:#000000;
+    position: absolute;
+}
+.customers-div
+{
+    width:112px;
+    height:45px;
+    top:210px;
+    left:640px;
+    border-radius: 5px;
+    border:1px solid black;
+    background-color: #7B7878;
+    position: absolute;
+}
+.total-customers
+{
+    width:55px;
+    height:38px;
+    top:234px;
+    left:592px;
+    padding-left: 30px;
+    font-family: Roboto;
+    font-size: 32px;
+    font-weight: 600;
+    color: #000000;
+}
+
+

@@ -1,0 +1,16 @@
+.dashboardinfo
+{
+    width:1304px;
+    height:1050px;
+    margin-top: 343px;
+    margin-left: 374px;
+    border-radius: 5px;
+    border: 1px solid #000000;
+    background-color: #FFFFFF;
+    position: absolute;
+}
+/* .dashboardinfo
+{
+    background-color: red;
+    /* width:1304px;
+    height:1050px; */

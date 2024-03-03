@@ -1,0 +1,127 @@
+.card
+{
+    position: absolute;
+}
+.menu-card
+{
+    /* margin-left: 10;
+    margin-top: 10px; */
+    position: absolute;
+    left: 0px;
+    top: 0px;
+
+}
+.sub
+{
+    position: absolute;
+    top:30px;
+
+}
+.add-categorys-btn-container
+{
+    width:235px;
+    height:67px;
+    top:250px;
+    margin-left:1443px;
+    border-radius: 5px;
+    border:1px solid #FFFFFF;
+    background-color: #a59d9d;
+    position: absolute;
+} 
+.add-categorys-btn
+{
+     width:196px;
+    height:38px;
+    margin-top:15px;
+    margin-left:14px;
+    font-family: Roboto;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 37.5px;
+    color:#000000; 
+    
+}
+
+.sub-category-info
+{
+    position:absolute;
+    top:10px;
+    
+}
+
+.sub-category-table-head
+{
+    width:1013px;
+    height:28px;
+    top:412px;
+    margin-left: 700px;
+    border-spacing: 50px;
+   
+    
+    
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28.13px;
+    position:absolute;
+    text-align: center;
+    color:#000000;
+}
+.sub-category-table-body
+{
+    width:1036px;
+    height:28px;
+    top:480px;
+    margin-left: 730px;
+    border-spacing: 50px;
+
+    
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28.13px;
+    position:absolute;
+} 
+/* .edit-btn
+{
+    border:1px solid#000000;
+    width:100px;
+    height:50px;
+    top:468px;
+    margin-left:1267px;
+    border-radius: 4px;
+    background-color: #FFFFFF;
+}
+.btn
+{
+    width:41px;
+    height:28px;
+    top:479px;
+    left:1315px;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28.13px;
+} */
+.action-btn
+{
+    width:178px;
+    height:50px;
+    margin-top:10px;
+    margin-left:10px;
+    border-radius: 4px;
+    border:1px solid #000000;
+    /* position: relative; */
+
+}
+.action-edit-btn
+{
+    width:41px;
+    height:28px;
+    margin-top:50px;
+    margin-left:10px;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28.13px;
+}

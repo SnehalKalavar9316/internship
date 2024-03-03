@@ -1,0 +1,256 @@
+.add-new-product-text
+{
+    width:267px;
+    height:38px;
+    top:227px;
+    left:929px;
+    font-family: Roboto;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 37.5px;
+    color:#000000;
+    position: absolute;
+}
+.product-info
+{
+    width:216px;
+    height:56px;
+    top:380px;
+    margin-left:422px;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28.13px;
+    position: absolute;
+   
+}
+.product-info-line
+{
+    width:1221.06px;
+    top:402.04px;
+    left:423.97px;
+    border:1px solid #776a6a;
+    
+}
+.product-name
+{
+    width:161px;
+    height:28px;
+    top:480px;
+    left:422px;
+    color:#000000;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28.13px;
+    position: absolute;
+}
+.product-name-input-container
+{
+    width:1237px;
+    height:68px;
+    top:512px;
+    left:424px;
+    border-radius: 5px;
+    border:1px solid #000000;
+    background-color: #FFFFFF;
+    position: absolute;
+}
+.product-category-text
+{
+    width:195px;
+    height:28px;
+    top:600px;
+    left:424px;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28.13px;
+    color:#000000;
+    position: absolute;
+}
+.product-sub-category-text
+{
+    width:242px;
+    height:28px;
+    top:600px;
+    left:1194px;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28.13px;
+    position: absolute;
+}
+.product-category-dropdown
+{
+    width:261px;
+    height:28px;
+    margin-top:15px;
+   margin-left:70px;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28.13px;
+   border-style: none;
+   
+}
+.product-category-container
+{
+    width:482px;
+    height:68px;
+    top:635px;
+    left:426px;
+    border-radius: 5px;
+    border:1px solid #000000;
+    position: absolute;
+    
+}
+.product-sub-category-container
+{
+    width:465px;
+    height:68px;
+    top:635px;
+    left:1180px;
+    border-radius: 5px;
+    border:1px solid #000000;
+    position: absolute;
+}
+.product-Subcategory-dropdown
+{
+    width:299px;
+    height:28px;
+    top:637px;
+    left:1204px;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500px;
+    line-height: 28.13px;
+    border-style: none;
+    color:#000000;
+}
+.product-price-text
+{
+    width:111px;
+    height:112px;
+    top:750px;
+    left:424px;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28.13px;
+    position: absolute;
+    
+}
+.product-price-input
+{
+    width:482px;
+    height:68px;
+    top:785px;
+    left:426px;
+    border-radius: 5px;
+    border:1px solid #000000;
+    position: absolute;
+}
+.stock-available-taxt
+{
+    width:165px;
+    height:22px;
+    top:750px;
+    left:1200px;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28.13px;
+    position: absolute;
+
+}
+.stock-available-container
+{
+    width:465px;
+    height:68px;
+    top:784px;
+    left:1180px;
+    border-radius: 5px;
+    border:1px solid #000000;
+    position: absolute;
+}
+.product-stock-dropdown
+{
+    width:354px;
+    height:28px;
+    margin-top:15px;
+    left:1215px;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28.13px;
+    border-style: none;
+ 
+}
+.product-description-text
+{
+    width:327px;
+    height:28px;
+    top:875px;
+    left:432px;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28.13px;
+    color:#000000;
+    position: absolute;
+
+}
+.product-description-input-container
+{
+    width:1212px;
+    height:162px;
+    top:925px;
+    left:433px;
+    border-radius: 5px;
+    border:1px solid #000000;
+    position: absolute;
+}
+.select-img-text
+{
+    width:177px;
+    height:28px;
+    top:1110px;
+    left:415px;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28.13px;
+    position: absolute;
+}
+.img-file-container
+{
+    width:297px;
+    height:181px;
+    top:1160px;
+    left:441px;
+    border-radius: 8px;
+    border:1px solid #b1b1b1;
+    position: absolute;
+}
+.save-btn-container
+{
+    width:549px;
+    height:122px;
+    top:1410px;
+    left:767px;
+    border-radius: 5px;
+    background-color: #FFAD33;
+    position: absolute;
+}
+h6{
+    width:70px;
+    height:38px;
+    margin-top:50px;
+    margin-left:250px;
+    font-family: Roboto;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 28.13px;
+
+}
