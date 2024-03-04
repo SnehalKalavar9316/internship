@@ -9,18 +9,9 @@ export default function Login()
         <>
           <div>
            <div className="logincard">
-
-           
-            
-
-
-
-
-                  
-
-                     <div className="firstdiv">
+                        <div className="firstdiv">
                         <div className="info">
-                     <h1 style={{color:'#15186D'}}>Welcome To Admin</h1>
+                     <h1 style={{color:'#15186D',width:"500px"}}>Welcome To Admin</h1>
                        <label style={{margin:"15px"}}>Username</label><br/>
                        <input className="input"
                         type='email'/><br/>
